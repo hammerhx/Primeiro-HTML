@@ -1,0 +1,42 @@
+Body {background-color: pink;}
+
+.titulo-centralizado {
+	text-align: center;
+}
+
+#gato {
+width: 100%;
+}
+
+.tituloprincipal {
+	padding-left: 20px;
+	}
+
+.principal {
+	background: #FFBB00;
+	padding: 30px;
+}
+
+p {text-align: justify;}
+
+#piada {
+	font-size: 20px
+}
+
+em strong {color: indigo;}
+
+.itens {font-style: italic;}
+
+.vantagensgato {
+	background: #FFFFFF;
+	padding: 20px;
+}
+
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+}
+
+	.imgkay {width: 40%}
